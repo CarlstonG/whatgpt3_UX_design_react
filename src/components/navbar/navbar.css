@@ -114,5 +114,17 @@
     .gpt3__navbar-sign{
         display: none;
     }
-    
+    .gpt3__navbar-menu_container{
+        top: 20px;
+    }
+    .gpt3__navbar-menu_container-links-sign{
+        display: block;
+        
+    }
+    .gpt3__navbar-menu_container button {
+        background: #131010;
+    }
+    .gpt3__navbar-menu_container button:hover{
+        background: #8f4949;
+    }
 }
